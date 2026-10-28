@@ -1,0 +1,247 @@
+{
+ "commit_mutopia": "2144afd6f52d56c5b6995b8b589ef1268b3139f0",
+ "morceaux": [
+  {
+   "id": "bach-menuet-g",
+   "titre": "Menuet en G, BWV Anh. 114",
+   "compositeur": "Christian Petzold (attribué à J. S. Bach)",
+   "niveau": 1,
+   "fichier": "bach-menuet-g.mid",
+   "licence": "Domaine public",
+   "gravure": "Allen Garvin",
+   "source": "Bach-Gesellschaft",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=75"
+  },
+  {
+   "id": "bach-menuet-g-mineur",
+   "titre": "Menuet en G mineur, BWV Anh. 115",
+   "compositeur": "Christian Petzold (attribué à J. S. Bach)",
+   "niveau": 1,
+   "fichier": "bach-menuet-g-mineur.mid",
+   "licence": "Domaine public",
+   "gravure": "Allen Garvin",
+   "source": "Bach-Gesellschaft",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=76"
+  },
+  {
+   "id": "bach-musette",
+   "titre": "Musette en D, BWV Anh. 126",
+   "compositeur": "Johann Sebastian Bach",
+   "niveau": 1,
+   "fichier": "bach-musette.mid",
+   "licence": "Domaine public",
+   "gravure": "Allen Garvin",
+   "source": "Bach-Gesellschaft",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=79"
+  },
+  {
+   "id": "burgmuller-arabesque",
+   "titre": "L'Arabesque, op. 100 n° 2",
+   "compositeur": "Friedrich Burgmüller",
+   "niveau": 1,
+   "fichier": "burgmuller-arabesque.mid",
+   "licence": "Domaine public",
+   "gravure": "Bas Wassink",
+   "source": "Collection Litolff, 19th Century",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=203"
+  },
+  {
+   "id": "tchaikovsky-priere",
+   "titre": "Prière du matin, op. 39 n° 1",
+   "compositeur": "Piotr Ilitch Tchaïkovski",
+   "niveau": 1,
+   "fichier": "tchaikovsky-priere.mid",
+   "licence": "Domaine public",
+   "gravure": "Rem Zolotykh",
+   "source": "Schirmer, 1904",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2032"
+  },
+  {
+   "id": "tchaikovsky-chanson",
+   "titre": "Vieille chanson française, op. 39 n° 16",
+   "compositeur": "Piotr Ilitch Tchaïkovski",
+   "niveau": 1,
+   "fichier": "tchaikovsky-chanson.mid",
+   "licence": "Domaine public",
+   "gravure": "David McNamara",
+   "source": "Schirmer, 1904",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2080"
+  },
+  {
+   "id": "burgmuller-innocence",
+   "titre": "Innocence, op. 100 n° 5",
+   "compositeur": "Friedrich Burgmüller",
+   "niveau": 1,
+   "fichier": "burgmuller-innocence.mid",
+   "licence": "Domaine public",
+   "gravure": "Bas Wassink",
+   "source": "Collection Litolff, 19th Century",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=214"
+  },
+  {
+   "id": "tchaikovsky-soldats",
+   "titre": "Marche des soldats de bois, op. 39 n° 5",
+   "compositeur": "Piotr Ilitch Tchaïkovski",
+   "niveau": 2,
+   "fichier": "tchaikovsky-soldats.mid",
+   "licence": "Domaine public",
+   "gravure": "Anonymous",
+   "source": "Schirmer, 1904",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1806"
+  },
+  {
+   "id": "clementi-sonatine-1",
+   "titre": "Sonatine en C, op. 36 n° 1",
+   "compositeur": "Muzio Clementi",
+   "niveau": 1,
+   "fichier": "clementi-sonatine-1.mid",
+   "licence": "Domaine public",
+   "gravure": "Brian D. Rude",
+   "source": "Sonatina Album, G. Schirmer, Inc.  Copyright 1893",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=804"
+  },
+  {
+   "id": "kuhlau-sonatine-1",
+   "titre": "Sonatine en C, op. 20 n° 1, Allegro",
+   "compositeur": "Friedrich Kuhlau",
+   "niveau": 2,
+   "fichier": "kuhlau-sonatine-1.mid",
+   "licence": "Domaine public",
+   "gravure": "Bas Wassink",
+   "source": "B. Schott's Söhnen, 19th Century",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=232"
+  },
+  {
+   "id": "beethoven-fur-elise",
+   "titre": "Für Elise, WoO 59",
+   "compositeur": "Ludwig van Beethoven",
+   "niveau": 2,
+   "fichier": "beethoven-fur-elise.mid",
+   "licence": "Domaine public",
+   "gravure": "Stelios Samelis",
+   "source": "Breitkopf & Härtel, 1888",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=931"
+  },
+  {
+   "id": "satie-gymnopedie-1",
+   "titre": "Gymnopédie n° 1",
+   "compositeur": "Erik Satie",
+   "niveau": 2,
+   "fichier": "satie-gymnopedie-1.mid",
+   "licence": "Domaine public",
+   "gravure": "Evin Robertson",
+   "source": "Dover Edition",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=37"
+  },
+  {
+   "id": "chopin-prelude-4",
+   "titre": "Prélude en E mineur, op. 28 n° 4",
+   "compositeur": "Frédéric Chopin",
+   "niveau": 2,
+   "fichier": "chopin-prelude-4.mid",
+   "licence": "Domaine public",
+   "gravure": "Magnus Lewis-Smith",
+   "source": "Peters, 1879",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=468"
+  },
+  {
+   "id": "chopin-prelude-20",
+   "titre": "Prélude en C mineur, op. 28 n° 20",
+   "compositeur": "Frédéric Chopin",
+   "niveau": 2,
+   "fichier": "chopin-prelude-20.mid",
+   "licence": "Domaine public",
+   "gravure": "Magnus Lewis-Smith",
+   "source": "Edition Peters",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=472"
+  },
+  {
+   "id": "bach-prelude-c",
+   "titre": "Prélude en C, BWV 846",
+   "compositeur": "Johann Sebastian Bach",
+   "niveau": 2,
+   "fichier": "bach-prelude-c.mid",
+   "licence": "Domaine public",
+   "gravure": "Tobias Erbsland",
+   "source": "Unknown",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=5"
+  },
+  {
+   "id": "bach-invention-8",
+   "titre": "Invention n° 8 en F, BWV 779",
+   "compositeur": "Johann Sebastian Bach",
+   "niveau": 2,
+   "fichier": "bach-invention-8.mid",
+   "licence": "Domaine public",
+   "gravure": "Allen Garvin",
+   "source": "Bach-Gesellschaft",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=61"
+  },
+  {
+   "id": "mozart-k331-theme",
+   "titre": "Sonate K. 331, thème",
+   "compositeur": "Wolfgang Amadeus Mozart",
+   "niveau": 2,
+   "fichier": "mozart-k331-theme.mid",
+   "licence": "Domaine public",
+   "gravure": "Stelios Samelis",
+   "source": "Breitkopf & Härtel, Leipzig",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=614"
+  },
+  {
+   "id": "joplin-entertainer",
+   "titre": "The Entertainer",
+   "compositeur": "Scott Joplin",
+   "niveau": 2,
+   "fichier": "joplin-entertainer.mid",
+   "licence": "Domaine public",
+   "gravure": "Chris Sawer",
+   "source": "Reproduction of original edition (1902)",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=263"
+  },
+  {
+   "id": "chopin-valse-b-mineur",
+   "titre": "Valse en B mineur, op. 69 n° 2",
+   "compositeur": "Frédéric Chopin",
+   "niveau": 3,
+   "fichier": "chopin-valse-b-mineur.mid",
+   "licence": "Domaine public",
+   "gravure": "Roland Goretzki",
+   "source": "Peters, Herrmann Scholtz, 1900a",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=511"
+  },
+  {
+   "id": "beethoven-pathetique-2",
+   "titre": "Sonate « Pathétique », op. 13, Adagio",
+   "compositeur": "Ludwig van Beethoven",
+   "niveau": 3,
+   "fichier": "beethoven-pathetique-2.mid",
+   "licence": "Domaine public",
+   "gravure": "Chris Sawer",
+   "source": "Berners, 1908 (edited by A. Winterberger); Peters, 1910",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=295"
+  },
+  {
+   "id": "debussy-arabesque-1",
+   "titre": "Première arabesque",
+   "compositeur": "Claude Debussy",
+   "niveau": 3,
+   "fichier": "debussy-arabesque-1.mid",
+   "licence": "Domaine public",
+   "gravure": "Keith OHara",
+   "source": "Durand et Fils (1904)",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1777"
+  },
+  {
+   "id": "debussy-clair-de-lune",
+   "titre": "Clair de lune",
+   "compositeur": "Claude Debussy",
+   "niveau": 3,
+   "fichier": "debussy-clair-de-lune.mid",
+   "licence": "Domaine public",
+   "gravure": "Keith OHara",
+   "source": "E. Fromont (1905)",
+   "page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1778"
+  }
+ ]
+}
